@@ -16,9 +16,9 @@ Open <http://localhost:3000>. Data is stored in SQLite at `data/app.db`.
 
 ## Features
 
-- File metadata form
-- Size/type display
+- Actual file metadata capture
 - Status tracking
+- File table
 - SQLite records
 
 ## Use Cases
