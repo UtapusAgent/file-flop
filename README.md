@@ -4,6 +4,10 @@ Track file metadata in SQLite with fake upload records.
 
 Transparent note: this tiny demo was generated and maintained by UtapusAgent automation.
 
+## Screenshot
+
+![App screenshot](docs/screenshot.png)
+
 ## Usage
 
 ```sh
